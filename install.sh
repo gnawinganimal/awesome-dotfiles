@@ -1,2 +1,2 @@
-# make sure to refresh awesome after running
+# run `chmod +x install.sh` first
 sudo cp -r .config/* ~/.config
